@@ -36,7 +36,7 @@ The goal of this project is to:
 - Nutritional intake has a measurable but secondary effect compared to workout intensity
 
 ## Files
-- `FinalProject.ipynb` – Full analysis, EDA, and modeling workflow
+- `calorie-prediction.ipynb` – Full analysis, EDA, and modeling workflow
 
 ## Authors
 - Andrew Kelley  
